@@ -83,10 +83,10 @@ E-mail: <a href="mailto:rakin1999@icloud.com">rakin1999@icloud.com</a><br>
 Gmail: <a href="mailto:xhackerino@gmail.com">xhackerino@gmail.com</a><br>
 <!--Corporate: <a href="mailto:ilia.rakin@student.lab.fi">ilia.rakin@student.lab.fi</a><br>-->
 TG: <a href="https://xhackerino.t.me">TELEGRAM [main]</a><br>
-Discord: <a href="https://discordapp.com/users/UserID">Discord</a><br><br>
+<!--Discord: <a href="https://discordapp.com/users/xhackerino">Discord</a><br><br>-->
 
 <big>📩</big> For <u>working issues</u> contact me at : <br>
-<a href="https://xhackerino.t.me">@xhackerino</a><br>
+<a href="https://xhackerino.t.me">@xhackerino</a><br><br>
 <!--<a href="https://dyrnos.t.me">@dyrnos</a><br><br>-->
 
 <big>🤝</big> Also check ...<br>
@@ -102,7 +102,7 @@ BTC: <mark><small>1Phbjhyuy5M5jurhLegNyawe1CMMJPyzcC</small></mark><br>
 ETH: <mark><small>0xa43205f0bdd955ad5df455cd86f3fb11052a875b</small></mark><br>
 TON: <mark><small>UQD7F5y8wdGEus0X6MfgLDZ7uBkUyhtXTe9RHg28mcX_8n0e</small></mark><br>
 <hr>
-<div align="center"><small>rakin.tech ⚡️  </small><br>
+<div align="center"><small>rakin.tech   </small>
 <small><a href="https://apple.com">.onion [TOR]</a><br>	
 <small> 2023 </small>
 <body>
