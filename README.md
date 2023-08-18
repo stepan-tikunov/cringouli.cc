@@ -100,7 +100,7 @@ BTC: <mark><small>1Phbjhyuy5M5jurhLegNyawe1CMMJPyzcC</small></mark><br>
 ETH: <mark><small>0xa43205f0bdd955ad5df455cd86f3fb11052a875b</small></mark><br>
 TON: <mark><small>UQD7F5y8wdGEus0X6MfgLDZ7uBkUyhtXTe9RHg28mcX_8n0e</small></mark><br>
 <hr>
-<div align="center"><small>rakin.uk    </small>
+<div align="center"><small>rakin.tech    </small>
 <small><a href="http://ed5hju7ynb3r44rpfbllahhgubivsnbkqtpggxy53hywafy56qzturad.onion">.onion [TOR]</a><br>	
 <small> 2023 </small>
 <body>
