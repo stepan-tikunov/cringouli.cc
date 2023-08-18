@@ -33,7 +33,7 @@ var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturda
 
 function updateTime(){
     var currentTime = new Date();
-var status = "Available for messaging only ✅, calls will be declined 📵 ";
+var status = "✅ Available for messaging only, calls will be declined 📵 ";
 
 d = currentTime.getUTCDay();
     h = currentTime.getUTCHours();
