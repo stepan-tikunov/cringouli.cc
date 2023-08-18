@@ -40,12 +40,12 @@ d = currentTime.getUTCDay();
 
 
 
- if (h >= 0 && h <= 7)
+ if (h >= 3 && h <= 11)
 {
 	status = "Sleeping... 💤";
 }
 
-if (h>=8 && h<=16)
+if (h>=12 && h<=21)
 {
 	status = "Busy. ⚠️ Do not disturb. ⛔";
 }
