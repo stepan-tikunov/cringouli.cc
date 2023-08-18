@@ -74,7 +74,6 @@ xhackerino/xhackerino is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <body>
-<img src="" alt="Ilya Rakin's Photo" width="200"><br>
 <big>👋</big> Hello, that's homepage of <b><a href="https://drive.google.com/uc?export=view&id=1px94pcoPQYk14iCOFNGf50si9nZQ3Aak">Ilya Rakin</a></b><br>
 Right now I’m...<br>
 <div id="status_span">Refreshing...</div><br>
