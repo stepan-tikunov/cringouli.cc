@@ -96,13 +96,13 @@ TG: <a href="https://xhackerino.t.me">TELEGRAM [main]</a><br>
 <br><br>
 <big>💰</big> Wallets :<br>
 Revtag: <mark><small>@iliafyjoa</small></mark><br>
-USDT(BEP20): <mark><small>0xa43205f0bdd955ad5df455cd86f3fb11052a875b</small></mark><br>
-USDT(TRC20): <mark><small>TLpRFRNje7SHWExwu87TDtsG3ukostcFMp</small></mark><br>
+USDT (BEP20): <mark><small>0xa43205f0bdd955ad5df455cd86f3fb11052a875b</small></mark><br>
+USDT (TRC20): <mark><small>TLpRFRNje7SHWExwu87TDtsG3ukostcFMp</small></mark><br>
 BTC: <mark><small>1Phbjhyuy5M5jurhLegNyawe1CMMJPyzcC</small></mark><br>
 ETH: <mark><small>0xa43205f0bdd955ad5df455cd86f3fb11052a875b</small></mark><br>
 TON: <mark><small>UQD7F5y8wdGEus0X6MfgLDZ7uBkUyhtXTe9RHg28mcX_8n0e</small></mark><br>
 <hr>
-<div align="center"><small>rakin.tech   </small>
+<div align="center"><small>⚡️ rakin.tech   </small>
 <small><a href="https://apple.com">.onion [TOR]</a><br>	
 <small> 2023 </small>
 <body>
