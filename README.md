@@ -66,45 +66,6 @@ setInterval(updateTime, 1000);
 
 </script>
 
-<script>
-
-
-function updateHeight(){
-    var currentHeight = new Date();
-var status2 = " Current height: 176 cm... ";
-
-d = currentTime.getUTCDay();
-    h = currentTime.getUTCHours();
-
-
-
- if (h >= 0 && h <= 7)
-{
-    status = "⬆️ Current height is turning from 175 to 176 cm... 📈";
-}
-
-if (h>=8 && h<=16)
-{
-    status = "📉 Current height has turned to 175 from 176 cm... ";
-}
-
-if (d == 0 && h < 9)
-{
-    status = "🚶🏼‍♂️Current height: 176 cm...";
-}
-else
-{
-if (d == 0 && h >= 9) status = "♻️ Current height is around 176 cm...";
-}
-document.getElementById('status_span').innerHTML = status;
-    
-}
-setInterval(updateTime, 1000);
-
-
-</script>
-
-
 <!---
 xhackerino/rakin.tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -115,12 +76,12 @@ Right now I’m...<br>
 <div id="status_span">Checking the schedule...</div><br>
 
 <big>📫</big> How to reach me ... <br>
-E-mail: <a href="mailto:superilyushagrief@gmail.com">superilyushagrief@gmail.com</a><br>
+Gmail: <a href="mailto:superilyushagrief@gmail.com">superilyushagrief@gmail.com</a><br>
 <!--Gmail: <a href="mailto:xhackerino@gmail.com">xhackerino@gmail.com</a><br>-->
 Corporate: <a href="mailto:ilia.rakin@student.lab.fi">ilia.rakin@student.lab.fi</a><br>
 ITMO: <a href="mailto:rakin@niuitmo.ru">rakin@niuitmo.ru</a><br>
 TG: <a href="https://xhackerino.t.me">TELEGRAM [main]</a><br>
-Discord: <a href="https://discordapp.com/users/xhackerino">Discord</a><br><br>
+<!--Discord: <a href="https://discordapp.com/users/xhackerino">Discord</a><br><br>-->
 
 <big>📩</big> For <u>working issues</u> contact me at : <br>
 <a href="https://xhackerino.t.me">@xhackerino</a><br><br>
