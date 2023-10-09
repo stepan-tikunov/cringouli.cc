@@ -80,12 +80,10 @@ Gmail: <a href="mailto:rakinilia@gmail.com">rakinilia@gmail.com</a><br>
 <!--Gmail: <a href="mailto:xhackerino@gmail.com">xhackerino@gmail.com</a><br>-->
 Corporate: <a href="mailto:rakin@aalto.fi">rakin@aalto.fi</a><br>
 ITMO: <a href="mailto:rakin@niuitmo.ru">rakin@niuitmo.ru</a><br>
-TG: <a href="https://xhackerino.t.me">TELEGRAM [main]</a><br>
-<!--Discord: <a href="https://discordapp.com/users/xhackerino">Discord</a><br><br>-->
+TG: <a href="https://xhackerino.t.me">TELEGRAM [main]</a><br><br>
 
 <big>📩</big> For <u>working issues</u> contact me at : <br>
 <a href="https://xhackerino.t.me">@xhackerino</a><br><br>
-<!--<a href="https://dyrnos.t.me">@dyrnos</a><br><br>-->
 
 <big>🤝</big> Also check ...<br>
 
