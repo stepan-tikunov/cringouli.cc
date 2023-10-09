@@ -76,9 +76,9 @@ Right now I’m...<br>
 <div id="status_span">Checking the schedule...</div><br>
 
 <big>📫</big> How to reach me ... <br>
-Gmail: <a href="mailto:superilyushagrief@gmail.com">superilyushagrief@gmail.com</a><br>
+Gmail: <a href="mailto:rakinilia@gmail.com">rakinilia@gmail.com</a><br>
 <!--Gmail: <a href="mailto:xhackerino@gmail.com">xhackerino@gmail.com</a><br>-->
-Corporate: <a href="mailto:ilia.rakin@student.lab.fi">ilia.rakin@student.lab.fi</a><br>
+Corporate: <a href="mailto:rakin@aalto.fi">ilia.rakin@aalto.fi</a><br>
 ITMO: <a href="mailto:rakin@niuitmo.ru">rakin@niuitmo.ru</a><br>
 TG: <a href="https://xhackerino.t.me">TELEGRAM [main]</a><br>
 <!--Discord: <a href="https://discordapp.com/users/xhackerino">Discord</a><br><br>-->
@@ -93,7 +93,7 @@ TG: <a href="https://xhackerino.t.me">TELEGRAM [main]</a><br>
 💬 X (Twitter): <a href="https://twitter.com/humblekomi"><small>@humblekomi</small></a><br>
 🇷🇺 VK: <a href="https://vk.com/xhackerino"><small>@xhackerino</small></a><br>
 🇫🇮 Snap: <a href="https://t.snapchat.com/aPQ1MzZZ"><small>@yurnerox</small></a><br>
-🖥️ Github: <a href="https://github.com/xhackerino"><small>@xhackerino</small></a><br> 
+<!--🖥️ Github: <a href="https://github.com/xhackerino"><small>@xhackerino</small></a><br> -->
 <br><br>
 <big>💰</big> Wallets :<br>
 Revtag: <mark><small>@iliafyjoa</small></mark><br>
