@@ -78,7 +78,7 @@ Right now I’m...<br>
 <big>📫</big> How to reach me ... <br>
 Gmail: <a href="mailto:rakinilia@gmail.com">rakinilia@gmail.com</a><br>
 <!--Gmail: <a href="mailto:xhackerino@gmail.com">xhackerino@gmail.com</a><br>-->
-Corporate: <a href="mailto:rakin@aalto.fi">ilia.rakin@aalto.fi</a><br>
+Corporate: <a href="mailto:rakin@aalto.fi">rakin@aalto.fi</a><br>
 ITMO: <a href="mailto:rakin@niuitmo.ru">rakin@niuitmo.ru</a><br>
 TG: <a href="https://xhackerino.t.me">TELEGRAM [main]</a><br>
 <!--Discord: <a href="https://discordapp.com/users/xhackerino">Discord</a><br><br>-->
