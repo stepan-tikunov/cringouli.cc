@@ -97,7 +97,7 @@ TG: <a href="https://xhackerino.t.me">@xhackerino</a><br><br>
  
 <br><br>
 <big>💰</big> Wallets :<br>
-Revtag: <mark><small>@iliafyjoa</small></mark><br>
+Revtag: <mark><small><a href="https://revolut.me/iliafyjoa">@iliafyjoa</a></small></mark><br>
 Coinbase Wallet: <mark><small><a href="https://iliakrabin.cb.id">iliakrabin.cb.id</a></small></mark><br>
 USDC (ERC20/MATIC): <mark><small>0x4c0a2909EC178c2A5fDD55a963F57756C3ACdE07</small></mark><br>
 USDT (ERC20/BEP20): <mark><small>0xa43205f0bdd955ad5df455cd86f3fb11052a875b</small></mark><br>
@@ -107,8 +107,8 @@ ETH: <mark><small>0xa43205f0bdd955ad5df455cd86f3fb11052a875b</small></mark><br>
 TON: <mark><small>UQD7F5y8wdGEus0X6MfgLDZ7uBkUyhtXTe9RHg28mcX_8n0e</small></mark><br>
 SEPA: <mark><small>DE18 1001 1001 2828 9445 44</small></mark><br>
 <hr>
-<div align="center"><small>⚡️ rakin.tech   </small>
+<div align="center"><small>⚡️ 2024 rakin</small>
 <small><a href="https://lut.fi/en">.onion [TOR]</a><br>	
-<small> 2023 </small>
+<small> Inspired by Teris Labendzski</small>
 <body>
 
