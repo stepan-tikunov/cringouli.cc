@@ -67,12 +67,12 @@ mark:hover {
   content: "";
 
   position: absolute;
-  top: -.25em;
-  left: -1.4em;
+  top: -.25rem;
+  left: -1.4rem;
 
   display: inline-block;
-  width: 1.4em;
-  height: 1.4em;
+  width: 1.4rem;
+  height: 1.4rem;
   
   background: url(/assets/svg/copy.svg) no-repeat;
 }
@@ -148,6 +148,9 @@ img.banner-image {
   max-height: 80vh;
 }
 
+.copy {
+  font-size: .8rem;
+}
 
 @media (prefers-color-scheme: dark) {
   :root {
