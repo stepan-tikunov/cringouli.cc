@@ -75,7 +75,7 @@ You can click the Preview link to take a look at your changes.
 Right now I’m...<br>
 <div id="status_span">Checking the schedule...</div><br>
 
-<big>📫</big> How to reach me ... <br>
+<big>📫</big> How to reach me... <br>
 Gmail: <a href="mailto:rakinilia@gmail.com">rakinilia@gmail.com</a><br>
 <!--Gmail: <a href="mailto:xhackerino@gmail.com">xhackerino@gmail.com</a><br>-->
 Corporate: <a href="mailto:ilia.rakin@student.lab.fi">ilia.rakin@student.lab.fi</a><br>
@@ -83,7 +83,7 @@ Corporate: <a href="mailto:ilia.rakin@student.lab.fi">ilia.rakin@student.lab.fi<
 TG: <a href="https://xhackerino.t.me">TELEGRAM [main]</a><br><br>
 
 
-<big>📩</big> For <u>working issues</u> contact me at : <br>
+<big>📩</big> For <u>working issues</u> contact me at: <br>
 <!--WhatsApp: <a href="https://wa.me/79955904497">+79955904497</a><br>-->
 TG: <a href="https://xhackerino.t.me">@xhackerino</a><br><br>
 
@@ -92,7 +92,7 @@ TG: <a href="https://xhackerino.t.me">@xhackerino</a><br><br>
 📷 Instagram (reply instantly): <a href="https://instagram.com/yurnerox">@yurnerox</a><br>
 <!--💬 X (Twitter): <a href="https://twitter.com/humblekomi"><small>@humblekomi</small></a><br>-->
 🇷🇺 VK (never reply): <a href="https://vk.com/xhackerino"><small>@xhackerino</small></a><br>
-🇫🇮 LinkedIn (reply often): <a href="https://t.snapchat.com/aPQ1MzZZ"><small>@yurnerox</small></a><br>
+🇫🇮 LinkedIn (reply often): <a href="https://linkedin.com/in/yurnerox"><small>in/yurnerox</small></a><br>
 🖥️ Github: <a href="https://github.com/xhackerino"><small>@xhackerino</small></a><br>
  
 <br><br>
@@ -108,7 +108,7 @@ TON: <mark><small>UQD7F5y8wdGEus0X6MfgLDZ7uBkUyhtXTe9RHg28mcX_8n0e</small></mark
 SEPA: <mark><small>DE18 1001 1001 2828 9445 44</small></mark><br>
 <hr>
 <div align="center"><small>⚡️ rakin.tech   </small>
-<small><a href="https://aalto.fi/en">.onion [TOR]</a><br>	
+<small><a href="https://lut.fi/en">.onion [TOR]</a><br>	
 <small> 2023 </small>
 <body>
 
