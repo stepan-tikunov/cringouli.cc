@@ -60,11 +60,11 @@ const WEEKEND = "✨ Enjoying my weekend. 📳 Don't contact me unless it's urge
 
 const schedule = {
     ...range(1, 5, 7, {
-        ...range(0, 8, 24, {
+        ...range(0, 6, 24, {
             message: SLEEPING,
             dnd: true,
         }),
-        ...range(8, 17, 24, {
+        ...range(7, 17, 24, {
             message: BUSY,
             dnd: true,
         }),
